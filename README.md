@@ -8,6 +8,9 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/satyam-dey/satyam-dey/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt= "GitHub Snake Light"/>
+<img src="https://raw.githubusercontent.com/satyam-dey/satyam-dey/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt= "GitHub Snake Dark"/>
+
 ### 🧑‍💻 About Me
 - 🔭 Currently working on: `AI Personal Assistant using Python`, `Web Sites`
 - 🌱 Learning: `AI integration`, `Full Stack Development`
