@@ -45,7 +45,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam-dey&show_icons=true&theme=tokyonight" alt="GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=satyam-dey&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=satyam-dey&theme=dark&hide_border=false" alt="GitHub Stats" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-dey&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
