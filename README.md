@@ -8,7 +8,7 @@
 
 ---
 
-![SnakeAnimation](https://github.com/satyam-dey/satyam-dey/blob/main/snake.gif?raw=true)
+![snake gif](https://github.com/itssagnikmukherjee/itssagnikmukherjee/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 🧑‍💻 About Me
 - 🔭 Currently working on: `AI Personal Assistant using Python`, `Web Sites`
