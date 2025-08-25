@@ -82,7 +82,7 @@
   <a href="https://www.instagram.com/_shu_kuranaie_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="120" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/reddevil9250"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="100" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:satyamdey4651@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://v0-portfolio-redesign-teal.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://satyamportfolio-theta.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </p>
 
 
