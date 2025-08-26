@@ -57,12 +57,12 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**TraVista**](https://github.com/satyam-dey/TraVista) | A travel app that helps users explore and plan trips efficiently. | HTML/CSS, JavaScript, JSON |
+| [**TraVista**](https://github.com/satyam-dey/TraVista-2.0) | A travel app that helps users explore and plan trips efficiently. | HTML/CSS, JavaScript, JSON |
 | [**Music Mood Detector**](https://github.com/satyam-dey/Music_Mood_Detector) | Detects the user's mood from audio input to recommend music. | Python, ML, librosa |
 | [**Weather App**](https://github.com/satyam-dey/Weather_App) | Realtime weather updates based on user location. | JavaScript, API, HTML/CSS |
-| [**Satyam Portfolio**](https://github.com/satyam-dey/Satyam-Portfolio) | A personal developer portfolio with responsive design. | TypeScript, React, TailwindCSS |
+| [**Satyam Portfolio**](https://github.com/satyam-dey/Portfolio) | A personal developer portfolio with responsive design. | TypeScript, React, TailwindCSS |
 | [**Fire Fighting Robot**](https://github.com/satyam-dey/Fire-Fighting-Robot) | A robot built for detecting and extinguishing fire. | Arduino, Embedded C++ |
-| [**TCS NQT Coding Samples**](https://github.com/satyam-dey/TCS-NQT-coding-samples) | Solutions and preparation material for TCS NQT exam. | C++, Problem Solving |
+| [**TCS NQT Coding Samples**](https://github.com/satyam-dey-learning/TCS-NQT-Coding-samples) | Solutions and preparation material for TCS NQT exam. | C++, Problem Solving |
 | [**Tic Tac Toe**](https://github.com/satyam-dey/tic-tac-toe) | A fun and interactive Tic Tac Toe game. | JavaScript, HTML/CSS |
 
 
