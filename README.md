@@ -11,7 +11,7 @@
 ![snake gif](https://github.com/itssagnikmukherjee/itssagnikmukherjee/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 🧑‍💻 About Me
-- 🔭 Currently working on: `AI Personal Assistant using Python`, `Web Sites`
+- 🔭 Currently working on: `Creating and styling Web Sites`
 - 🌱 Learning: `AI integration`, `Full Stack Development`
 - 💼 Looking for opportunities in `Software Development`, `Frontend Development`, `Full Stack Development`, `AI Projects`
 - ⚙️ Tech Stack: See below
