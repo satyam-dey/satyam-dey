@@ -26,9 +26,63 @@
 
 ---
 
+
 ### 🚀 My Tech Stack
 
 <p align="center">
+  <i>Technologies, Frameworks & Tools I Work With</i>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%" valign="top">
+
+<h5>💻 Languages</h5>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js&perline=3" />
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h5>🎨 Frontend</h5>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind&perline=3" />
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h5>⚙️ Backend</h5>
+<img src="https://skillicons.dev/icons?i=nodejs,flask&perline=3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" />
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%" valign="top">
+
+<h5>🗄️ Databases</h5>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=3" />
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h5>🛠️ Tools & Platforms</h5>
+<img src="https://skillicons.dev/icons?i=git,github,linux&perline=3" />
+
+</td>
+<td align="center" width="33%" valign="top">
+
+<h5>🎭 Design Tools</h5>
+<img src="https://skillicons.dev/icons?i=ps&perline=3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>✨ Always Exploring • Always Building • Always Learning ✨</i>
+</p>
+
+<!-- <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,7 +105,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" />
-</p>
+</p> -->
 
 ---
 
@@ -82,6 +136,7 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 ---
