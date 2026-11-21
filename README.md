@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyam-dey&show_icons=true&theme=tokyonight" alt="GitHub Stats" /><br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=satyam-dey&theme=dark&hide_border=false" alt="GitHub Stats" /><br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=satyam-dey&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-dey&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -66,7 +66,7 @@
 | [**Satyam Portfolio**](https://satyamportfolio-theta.vercel.app/) | A personal developer portfolio with responsive design. | TypeScript, React, TailwindCSS |
 | [**Fire Fighting Robot**](https://github.com/satyam-dey/Fire-Fighting-Robot) | A robot built for detecting and extinguishing fire. | Arduino, Embedded C++ |
 | [**TCS NQT Coding Samples**](https://github.com/satyam-dey-learning/TCS-NQT-Coding-samples) | Solutions and preparation material for TCS NQT exam. | C++, Problem Solving |
-| [**Tic Tac Toe**](https://github.com/satyam-dey/tic-tac-toe) | A fun and interactive Tic Tac Toe game. | JavaScript, HTML/CSS |
+| [**Earth Visualization - Weather Forecasting**](https://earthvisualization-r5oo2weuk-satyam-deys-projects.vercel.app/) | Interactive 3D Earth visualization with weather, humidity, temperature, wind, and atmospheric pressure data. | React, CesiumJS, Luicide |
 
 
 ---
