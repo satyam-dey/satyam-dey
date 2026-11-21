@@ -8,7 +8,14 @@
 
 ---
 
-![snake gif](https://github.com/itssagnikmukherjee/itssagnikmukherjee/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/satyam-dey/satyam-dey/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/satyam-dey/satyam-dey/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/satyam-dey/satyam-dey/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 🧑‍💻 About Me
 - 🔭 Currently working on: `Creating and styling Web Sites`
